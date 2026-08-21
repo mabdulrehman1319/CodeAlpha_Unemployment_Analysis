@@ -36,10 +36,10 @@ An exploratory data analysis of unemployment trends in India (2019-2020) using P
 1. Clone the repository
    git clone https://github.com/mabdulrehman1319/CodeAlpha_Unemployment_Analysis.git
 2. Install required libraries
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 3. Open `Unemployment_Analysis.ipynb` in Jupyter Notebook or VS Code
 4. Run all cells
 
 ## 👤 Author
-**Muhammad Abdul Rehman**
-CodeAlpha DataScience Internship
+  **Muhammad Abdul Rehman**
+  CodeAlpha DataScience Internship
